@@ -9,9 +9,14 @@ echo $refrigerante;
 
 echo "<hr>"*/
 
-$comida = "baiana";
+/* $comida = "baiana";
 
 $$comida = "caruru";
 
-echo $baiana;
+echo $baiana;*/
+
+$destino = "cidade";
+$$destino = "rio de janeiro";
+
+echo $cidade;
 ?>
