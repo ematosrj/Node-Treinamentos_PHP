@@ -28,7 +28,9 @@ $var3 = 0;
 function multiplica() {
 $GLOBALS["var3"] = $GLOBALS["var1"] * $GLOBALS["var2"];
 }
+
 multiplica();
+
 echo $var3;
 
 ?>
